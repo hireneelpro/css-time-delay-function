@@ -177,7 +177,7 @@ ul {
   border-radius: 50%;
   margin: 2rem auto;
   animation: delay 1s infinite linear;
-  background: linear-gradient(var(--primary-clr-1),var(--primary-clr-9),var(--primary-clr-1));
+  /* background: linear-gradient(var(--primary-clr-1),var(--primary-clr-9),var(--primary-clr-1)); */
   
 }
 h1{
